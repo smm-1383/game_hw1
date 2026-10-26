@@ -1,0 +1,14 @@
+Art credits
+
+Voidcord - Dino Spritesheet Animation (Assets/Art/Voidcord)
+  https://voidcord54.itch.io/dino-spritesheet-animation  License: CC0
+
+Lil Dino Free Pixelart Animated Character by LukeProductions (Assets/Art/LilDino)
+  https://lukeproductions.itch.io/lil-dino-free-pixelart-animated-character
+  License: free for personal and commercial use, no attribution required
+
+Parallax Background by RavenTale (Assets/Art/Parallax)
+  https://raventale.itch.io/parallax-background  License: CC0
+
+Kenney - New Platformer Pack 1.1 (Assets/Art/Kenney, selected sprites only)
+  https://kenney.nl  License: CC0
